@@ -219,4 +219,3 @@ public class HotelReservationSystem {
     }
 }
 
-//After submitting the form on this page, you will receive a response receipt via email. Please forward that email to tech@thesparksfoundation.sg and grip@thesparksfoundation.sg without editing the subject.
